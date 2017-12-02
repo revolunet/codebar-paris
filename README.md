@@ -1,1 +1,30 @@
-# codebar-paris
+# codebar Paris
+
+###### Initiative à **but non lucratif** qui organise des **ateliers de programmation** pour encourager la **diversité dans la communauté tech**.
+
+Notre but est de permettre aux personnes sous-représentées dans notre industrie d'apprendre à programmer dans un environnement bienveillant et collaboratif, pour progresser dans leur carrière.
+
+Pour atteindre cet objectif, nous allons organiser régulièrement des ateliers gratuits, pour tenter de créer de nos nouvelles opportunités pour les participants, en leur rendant la technologie plus accessible.
+
+Concrètement, ce sont des ateliers d'initiation ou perfectionnement de ~2h, de ~25 personnes, et avec un ratio de ~1 coach pour 2 participants.
+
+Les coachs assurent un conseil sur mesure aux participants, et l'évènement est encadré par un [code de conduite](https://codebar.io/code-of-conduct).
+
+Pour participer en tant qu'organisateur, coach, ou participant, tout se fait sur le site officiel, il suffit de s'inscrire et de rejoindre le groupe de Paris : https://codebar.io/paris
+
+Une messagerie slack est également disponible : https://codebar-slack.herokuapp.com avec un canal #paris ou vous êtes les bienvenu(e)s.
+
+### Autres initiatives à Paris :
+
+ - http://jsldd.org/
+ - https://nodeschool.io/paris/
+ - http://www.pyladies.com/locations/paris/
+ - https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/
+ - https://www.meetup.com/fr-FR/NodeSchool-Paris/
+ - https://www.meetup.com/fr-FR/rladies-paris/
+ - https://www.meetup.com/fr-FR/Paris-DataLadies/
+ - https://www.meetup.com/fr-FR/Women-On-Rails/
+ - https://www.meetup.com/fr-FR/Women-Who-Go-Paris/
+ - https://www.meetup.com/fr-FR/Duchess-France-Meetup/
+ - http://simplon.co
+ - http://www.hackyourfuture.net/
