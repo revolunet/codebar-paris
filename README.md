@@ -1,6 +1,6 @@
 # codebar Paris
 
-###### Initiative à **but non lucratif** qui organise des **ateliers de programmation** pour encourager la **diversité dans la communauté tech**.
+#### Initiative à **but non lucratif** qui organise des **ateliers de programmation** pour encourager la **diversité dans la communauté tech**.
 
 Notre but est de permettre aux personnes sous-représentées dans notre industrie d'apprendre à programmer dans un environnement bienveillant et collaboratif, pour progresser dans leur carrière.
 
