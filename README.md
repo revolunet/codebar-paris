@@ -14,6 +14,8 @@ Pour participer en tant qu'organisateur, coach, ou participant, tout se fait sur
 
 Une messagerie slack est également disponible : https://codebar-slack.herokuapp.com avec un canal #paris ou vous êtes les bienvenu(e)s.
 
+L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com/revolunet)
+
 ### Autres initiatives à Paris :
 
  - http://jsldd.org/
