@@ -31,4 +31,7 @@ L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com
  - https://www.meetup.com/fr-FR/Women-Who-Go-Paris/
  - https://www.meetup.com/fr-FR/Duchess-France-Meetup/
  - http://simplon.co
+ 
+### Ailleurs :
+
  - http://www.hackyourfuture.net/
