@@ -21,7 +21,6 @@ L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com
 ### Autres initiatives à Paris :
 
  - http://jsldd.org/
- - https://nodeschool.io/paris/
  - http://www.pyladies.com/locations/paris/
  - https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/
  - https://www.meetup.com/fr-FR/NodeSchool-Paris/
@@ -30,6 +29,7 @@ L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com
  - https://www.meetup.com/fr-FR/Women-On-Rails/
  - https://www.meetup.com/fr-FR/Women-Who-Go-Paris/
  - https://www.meetup.com/fr-FR/Duchess-France-Meetup/
+ - https://www.meetup.com/fr-FR/Women-Who-Code-Paris/
  - http://simplon.co
 
 ### Ailleurs :
