@@ -8,15 +8,15 @@ Notre but est de permettre aux personnes sous-représentées dans notre industri
 
 Pour atteindre cet objectif, nous allons organiser régulièrement des ateliers gratuits, pour tenter de créer de nouvelles opportunités pour les participants, en leur rendant la technologie plus accessible.
 
-Concrètement, ce sont des ateliers d'initiation ou perfectionnement de ~2h, de ~25 personnes, et avec un ratio de ~1 coach pour 2 participants.
+Concrètement, ce sont des ateliers d'initiation ou de perfectionnement de ~2h pour ~25 personnes, avec un ratio de ~1 coach pour 2 participants.
 
-Les coachs assurent un conseil sur mesure aux participants, et l'évènement est encadré par un [code de conduite](./code-of-conduct.md).
+Les coachs assurent un conseil sur mesure aux participants, et l'événement est encadré par un [code de conduite](./code-of-conduct.md).
 
 Pour participer en tant qu'organisateur, coach, ou participant, tout se fait sur le site officiel, il suffit de s'inscrire et de rejoindre le groupe de Paris : https://codebar.io/paris
 
-Une messagerie slack est également disponible : https://codebar-slack.herokuapp.com avec un canal #paris ou vous êtes les bienvenu(e)s.
+Une messagerie Slack est également disponible sur https://codebar-slack.herokuapp.com avec un canal `#paris` ou vous êtes les bienvenu·e·s.
 
-L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com/revolunet)
+L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com/revolunet).
 
 ### Autres initiatives à Paris :
 
@@ -31,7 +31,7 @@ L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com
  - https://www.meetup.com/fr-FR/Women-Who-Go-Paris/
  - https://www.meetup.com/fr-FR/Duchess-France-Meetup/
  - http://simplon.co
- 
+
 ### Ailleurs :
 
  - http://www.hackyourfuture.net/
