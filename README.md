@@ -18,9 +18,16 @@ Une messagerie Slack est également disponible sur https://codebar-slack.herokua
 
 L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com/revolunet).
 
-### Autres initiatives à Paris :
+Twitter : https://twitter.com/codebarParis
 
+### Autres initiatives à Paris/RP :
+
+ - http://simplon.co
  - http://jsldd.org/
+ - https://codeenseine.fr/
+ - https://lereset.org/
+ - http://emmaus-connect.org/
+ - http://www.rezosocial.org/
  - http://www.pyladies.com/locations/paris/
  - https://www.meetup.com/fr-FR/Ladies-of-Code-Paris/
  - https://www.meetup.com/fr-FR/NodeSchool-Paris/
@@ -30,8 +37,13 @@ L'organisateur sur Paris est actuellement [Julien Bouquillon](http://twitter.com
  - https://www.meetup.com/fr-FR/Women-Who-Go-Paris/
  - https://www.meetup.com/fr-FR/Duchess-France-Meetup/
  - https://www.meetup.com/fr-FR/Women-Who-Code-Paris/
- - http://simplon.co
+ - https://www.meetup.com/fr-FR/Atelier-programmation-web-pour-debutant-Paris-15/
+ - http://diversidays.com/2017/
+ - https://startupbanlieue.com/
 
 ### Ailleurs :
 
  - http://www.hackyourfuture.net/
+ - http://konexio.eu/
+ - https://techfugees.com/
+ 
